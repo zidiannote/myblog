@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "90d235aba4fbc797",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa9d377609a6855d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "124f6adddde49224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.技术积累/01.Git学习笔记/10.手册/06.Git命令思维导图.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92a34aad6fd6af6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c3512ff9f507a11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0ff318367f2dce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a2278867da3dd4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c3bd5d66e3de8f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "275f7f32dac490d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58eaec3ab86a93f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24314764c80a5a1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.技术积累/01.Git学习笔记/10.手册/06.Git命令思维导图.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d3bcd8df1157b79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01.技术积累/01.Git学习笔记/10.手册/06.Git命令思维导图.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab7230103484cf53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15c271b2921d5155",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01.技术积累/01.Git学习笔记/10.手册/06.Git命令思维导图.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "124f6adddde49224",
+  "lastOpenFiles": [
+    "04.image/git 1.png",
+    "04.image/git.png",
+    "01.技术积累/01.Git学习笔记/10.手册/06.Git命令思维导图.md",
+    "03.学习周刊/2424.学习周刊-2024年24周.md",
+    "04.image/Pasted image 20240815113711.png",
+    "bg.jpg",
+    "01.技术积累/01.Git学习笔记/10.手册/00.常用Git命令清单.md",
+    "00.目录页/03.学习周刊.md",
+    "00.目录页/02.随笔感悟.md",
+    "00.目录页/01.技术积累.md"
+  ]
+}
