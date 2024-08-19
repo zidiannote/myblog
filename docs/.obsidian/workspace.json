@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.技术积累/04.工具模板/01.markdown模板.md",
+                "file": "03.学习周刊/2425.学习周刊-2024年25周.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.技术积累/04.工具模板/01.markdown模板.md",
+                "file": "03.学习周刊/2425.学习周刊-2024年25周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.技术积累/04.工具模板/01.markdown模板.md",
+                "file": "03.学习周刊/2425.学习周刊-2024年25周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.技术积累/04.工具模板/01.markdown模板.md"
+                "file": "03.学习周刊/2425.学习周刊-2024年25周.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "124f6adddde49224",
+  "active": "eb0ff318367f2dce",
   "lastOpenFiles": [
+    "03.学习周刊/2424.学习周刊-2024年24周.md",
+    "03.学习周刊/2425.学习周刊-2024年25周.md",
+    "03.学习周刊/2424.学习周刊-2024年24周 - 副本.md",
     "img/Pasted image 20240819103033.png",
     "img/Pasted image 20240819102939.png",
     "02.随笔感悟/01.如何深入了解一个行业.md",
     "01.技术积累/04.工具模板/01.markdown模板.md",
     "02.随笔感悟/01.markdown模板.md",
     "03.学习周刊/未命名.canvas",
-    "03.学习周刊/2424.学习周刊-2024年24周.md",
     "03.学习周刊/未命名.md",
     "01.技术积累/05.数据分析/0501.数据分析之道/1.数据分析师的职业成长之路：从取数工具到项目组织的三次跨越.md",
     "img/Pasted image 20240815113711.png",
@@ -179,7 +181,6 @@
     "01.技术积累/05.数据分析/0501.数据分析之道",
     "01.技术积累/05.数据分析",
     "01.技术积累/未命名.md",
-    "04.image/git 1.png",
     "01.技术积累/01.Git学习笔记/10.手册/00.常用Git命令清单.md",
     "00.目录页/03.学习周刊.md",
     "00.目录页/02.随笔感悟.md",
