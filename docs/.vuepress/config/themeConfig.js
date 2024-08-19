@@ -12,12 +12,12 @@ module.exports = {
   editLinks: true, // 启用编辑链接
   docsDir: "docs", // 编辑的文件夹
   docsBranch: "master", // 编辑的分支
-  editLinkText: "帮助我们改善此页面",
+  // editLinkText: "帮助我们改善此页面",
   searchPlaceholder: "按下 𝑺 搜索", // 可选：搜索栏占位文本，默认："$ grep ..."
 
   //*** 以下配置是Vdoing主题改动和新增的配置 ***//
 
-  category: false, // 是否打开分类功能，默认true。 如打开，会做的事情有：1. 自动生成的frontmatter包含分类字段 2.页面中显示与分类相关的信息和模块 3.自动生成分类页面（在@pages文件夹）。如关闭，则反之。
+  category: true, // 是否打开分类功能，默认true。 如打开，会做的事情有：1. 自动生成的frontmatter包含分类字段 2.页面中显示与分类相关的信息和模块 3.自动生成分类页面（在@pages文件夹）。如关闭，则反之。
   tag: false, // 是否打开标签功能，默认true。 如打开，会做的事情有：1. 自动生成的frontmatter包含标签字段 2.页面中显示与标签相关的信息和模块 3.自动生成标签页面（在@pages文件夹）。如关闭，则反之。
   // archive: false, // 是否打开归档功能，默认true。 如打开，会做的事情有：1.自动生成归档页面（在@pages文件夹）。如关闭，则反之。
   // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
@@ -67,8 +67,8 @@ module.exports = {
   },
   footer: {
     // 页脚信息
-    createYear: 2022, // 博客创建年份
+    createYear: 2024, // 博客创建年份
     copyrightInfo:
-      'Eryajf | <a href="https://zidiannote.github.io/myblog/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'zidiannote | <a href="https://zidiannote.github.io/myblog/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   },
 };
