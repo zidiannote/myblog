@@ -1,4 +1,5 @@
 {
-  "attachmentFolderPath": "04.image",
-  "showUnsupportedFiles": true
+  "attachmentFolderPath": "img",
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
 }
