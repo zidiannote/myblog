@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.随笔感悟/01.如何深入了解一个行业.md",
+                "file": "01.技术积累/04.工具模板/01.markdown模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.随笔感悟/01.如何深入了解一个行业.md",
+                "file": "01.技术积累/04.工具模板/01.markdown模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.随笔感悟/01.如何深入了解一个行业.md",
+                "file": "01.技术积累/04.工具模板/01.markdown模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.随笔感悟/01.如何深入了解一个行业.md"
+                "file": "01.技术积累/04.工具模板/01.markdown模板.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "124f6adddde49224",
   "lastOpenFiles": [
-    "01.技术积累/04.工具模板/01.markdown模板.md",
+    "img/Pasted image 20240819103033.png",
+    "img/Pasted image 20240819102939.png",
     "02.随笔感悟/01.如何深入了解一个行业.md",
+    "01.技术积累/04.工具模板/01.markdown模板.md",
     "02.随笔感悟/01.markdown模板.md",
     "03.学习周刊/未命名.canvas",
     "03.学习周刊/2424.学习周刊-2024年24周.md",
@@ -178,7 +180,6 @@
     "01.技术积累/05.数据分析",
     "01.技术积累/未命名.md",
     "04.image/git 1.png",
-    "04.image/git.png",
     "01.技术积累/01.Git学习笔记/10.手册/00.常用Git命令清单.md",
     "00.目录页/03.学习周刊.md",
     "00.目录页/02.随笔感悟.md",
